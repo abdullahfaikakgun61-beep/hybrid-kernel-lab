@@ -1,0 +1,7 @@
+linux-layer/linux/
+linux-layer/linux-*/
+zircon-layer/
+seL4-layer/
+*.tar.*
+*.iso
+*.squashfs
